@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import dtypeEnums from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-dtype-enums@deno/mod.js';
+import dtypeEnums from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-dtype-enums@v0.1.0-deno/mod.js';
 ```
 
 #### dtypeEnums()
@@ -91,7 +91,7 @@ var out = dtypeEnums();
 
 ```javascript
 import dtypeStrings from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-dtype-strings@deno/mod.js';
-import dtypeEnums from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-dtype-enums@deno/mod.js';
+import dtypeEnums from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-dtype-enums@v0.1.0-deno/mod.js';
 
 var dt = dtypeStrings();
 // returns [...]
