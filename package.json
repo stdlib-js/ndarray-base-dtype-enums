@@ -43,7 +43,7 @@
     "@stdlib/assert-has-own-property": "^0.2.2",
     "@stdlib/assert-is-nonnegative-integer": "^0.2.2",
     "@stdlib/assert-is-object": "^0.2.2",
-    "@stdlib/ndarray-base-dtype-strings": "github:stdlib-js/ndarray-base-dtype-strings#main",
+    "@stdlib/ndarray-base-dtype-strings": "^0.1.0",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
     "tap-min": "git+https://github.com/Planeshifter/tap-min.git",
