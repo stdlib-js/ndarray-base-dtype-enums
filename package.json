@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/ndarray-base-dtype-enums",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Return an object mapping supported data type strings to enumeration constants.",
   "license": "Apache-2.0",
   "author": {
