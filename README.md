@@ -52,6 +52,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import dtypeEnums from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-dtype-enums@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/ndarray-base-dtype-enums/tags). For example,
+
+```javascript
 import dtypeEnums from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-dtype-enums@v0.1.1-esm/index.mjs';
 ```
 
@@ -96,7 +101,7 @@ var out = dtypeEnums();
 <script type="module">
 
 import dtypeStrings from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-dtype-strings@esm/index.mjs';
-import dtypeEnums from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-dtype-enums@v0.1.1-esm/index.mjs';
+import dtypeEnums from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-dtype-enums@esm/index.mjs';
 
 var dt = dtypeStrings();
 // returns [...]
